@@ -260,7 +260,7 @@ active-directory-home-lab
 
 A full PDF version of the lab documentation is included in this repository.
 
-**PDF:** `Windows_Server_Active_Directory_Home_Lab.pdf`
+[View the full Active Directory Home Lab PDF](Windows_Server_Active_Directory_Home_Lab.pdf)
 
 ## Summary
 
