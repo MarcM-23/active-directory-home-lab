@@ -249,3 +249,10 @@ A full PDF version of the lab documentation is included in this repository.
 This lab provided hands-on experience with Windows Server, Active Directory, DNS, Hyper-V, and Windows domain administration. It also helped reinforce common IT Help Desk responsibilities such as resetting passwords, unlocking accounts, creating users, managing groups, organizing OUs, troubleshooting domain connectivity, and documenting support tickets.
 
 This project was completed as part of my continued preparation for IT Help Desk, Desktop Support, and Technical Support roles.
+
+## AI Disclosure
+
+Artificial intelligence was used as a documentation assistant during this project. AI assistance helped with organizing the lab write-up, improving wording, creating a professional README structure, and formatting the project documentation for clarity.
+
+All lab work, screenshots, configuration steps, troubleshooting tasks, and technical implementation were completed by me in my own Hyper-V home lab environment. The AI tool was used only to support documentation, explanation, and presentation of the work.
+
