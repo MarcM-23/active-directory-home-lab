@@ -238,24 +238,6 @@ Resolved
 
 Screenshots from the lab are included in the project documentation PDF.
 
-Recommended folder structure:
-
-```text
-active-directory-home-lab
-│
-├── README.md
-├── Windows_Server_Active_Directory_Home_Lab.pdf
-├── screenshots
-│   ├── server-setup.png
-│   ├── active-directory-users-computers.png
-│   ├── dns-testing.png
-│   ├── domain-join.png
-│   └── password-reset.png
-│
-└── tickets
-    └── help-desk-ticket-examples.txt
-```
-
 ## Documentation
 
 A full PDF version of the lab documentation is included in this repository.
